@@ -10,8 +10,6 @@ I believe in the power of problem-solving to sharpen your coding prowess and ana
 
 - **Diverse Problems:** From classic algorithmic challenges to real-world coding dilemmas, we cover a wide spectrum of problems.
 - **Multiple Solutions:** Explore different approaches and techniques to solve each problem, broadening your understanding of algorithms and programming paradigms.
-- **Rich Explanations:** Our solutions come with detailed explanations and insights, helping you grasp the underlying concepts and refine your problem-solving strategies.
-- **Contributions Welcome:** Have your own solution to a problem? Feel free to contribute and share your knowledge with the community!
 
 ## 🌟 Get Involved:
 
