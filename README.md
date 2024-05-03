@@ -4,7 +4,7 @@ Welcome to our problem-solving repository! 🎉 Here, I curate solutions for a m
 
 ## 💡 Why This Repository?
 
-I believe in the power of problem-solving to sharpen your coding prowess and analytical thinking. By tackling diverse problems and exploring various algorithms, you can enhance your problem-solving skills and become a more adept programmer.
+By tackling diverse problems and exploring various algorithms, you can enhance your problem-solving skills and become a more adept programmer.
 
 ## 🔍 What You'll Find Here:
 
