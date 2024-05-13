@@ -1,0 +1,38 @@
+Invoices Per Country
+
+Background
+
+A business is analyzing data by country. For each country, display the country name, total number of invoices, and their average amount. Format the
+average as a floating-point number with 6 decimal places. Return only those countries where their average invoice amount is greater than the average
+invoice amount over all invoices.
+
+Objective
+
+Write a query to achieve this.
+
+Data
+
+There are two tables:
+
+invoices
+country_info
+
+Example Data
+
+invoices
+
+invoice_id	customer_id	country_code	invoice_amount	invoice_date
+1	101	US	100.00	2023-01-01
+2	102	UK	150.00	2023-02-01
+3	103	US	200.00	2023-03-01
+4	104	CA	50.00	2023-04-01
+5	105	US	125.00	2023-05-01
+
+drive_spreadsheet
+Exportar para as Planilhas
+country_info
+
+country_code	country_name
+US	United States
+UK	United Kingdom
+CA	Canada
