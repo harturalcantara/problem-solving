@@ -1,0 +1,33 @@
+Sure, here is the English translation of the text in the image:
+
+**Products Without Sales**
+
+**Objective**
+
+Use the product and invoice details for products at an online store, find all the products that were not sold. For each such product, display its SKU and product name. Order the result by SKU, ascending.
+
+**Data**
+
+There are two tables:
+
+* `products`
+* `invoices`
+
+Their primary keys are `product_id` and `invoice_id`, respectively.
+
+**Example Data**
+
+**`products`**
+
+| product_id | product_name | sku |
+|---|---|---|
+| 1 | Laptop | LPT-123 |
+| 2 | Keyboard | KBD-456 |
+| 3 | Mouse | MSE-789 |
+
+**`invoices`**
+
+| invoice_id | product_id | quantity |
+|---|---|---|
+| 1 | 2 | 1 |
+| 2 | 3 | 2 |
