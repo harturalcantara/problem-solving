@@ -1,0 +1,38 @@
+Sure, here is the English translation of the text in the image:
+
+**Profitable Stocks**
+
+**Background**
+
+A stock market investor wants to identify stocks that are predicted to have a higher price tomorrow than today. This information can be used to make informed investment decisions.
+
+**Objective**
+
+Write a query to find the stock_codes of all the stocks which are profitable based on this definition. Sort the output in ascending order.
+
+**Data**
+
+There are two tables:
+
+* `price_today`
+* `price_tomorrow`
+
+Their primary keys are `stock_code`.
+
+**Example Data**
+
+**`price_today`**
+
+| stock_code | price |
+|---|---|
+| A123 | 100 |
+| B456 | 120 |
+| C789 | 80 |
+
+**`price_tomorrow`**
+
+| stock_code | price |
+|---|---|
+| A123 | 110 |
+| B456 | 130 |
+| C789 | 90 |
