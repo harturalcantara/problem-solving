@@ -1,0 +1,42 @@
+**Student Analysis**
+
+**Background**
+
+A school recently conducted its annual examination and wishes to know the list of academically low performing students to organize extra classes for them.
+
+**Objective**
+
+Write a query to return the roll number and names of students who have a total of less than 100 marks including all 3 subjects.
+
+**Data**
+
+There are two tables:
+
+* `student_information`
+* `examination_marks`
+
+Their primary keys are `roll_number`.
+
+**Example Data**
+
+**`student_information`**
+
+| roll_number | name |
+|---|---|
+| 1 | John Doe |
+| 2 | Jane Doe |
+| 3 | Peter Jones |
+
+**`examination_marks`**
+
+| roll_number | subject | marks |
+|---|---|---|
+| 1 | English | 50 |
+| 1 | Math | 30 |
+| 1 | Science | 20 |
+| 2 | English | 60 |
+| 2 | Math | 70 |
+| 2 | Science | 80 |
+| 3 | English | 40 |
+| 3 | Math | 50 |
+| 3 | Science | 60 |
